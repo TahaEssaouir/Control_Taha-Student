@@ -1,0 +1,6 @@
+input StudentDtoInput{
+    name: String
+    email: String
+    dateNaissance: String
+
+}

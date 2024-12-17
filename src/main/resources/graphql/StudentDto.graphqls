@@ -1,0 +1,5 @@
+type StudentDto{
+    name: String
+    email: String
+    dateNaissance: String
+}
